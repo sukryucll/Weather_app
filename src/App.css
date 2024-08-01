@@ -37,15 +37,15 @@ body {
   padding: 2px 15px;
   font-size: 16px;
   outline: none;
-  background-color: #C3CEE1;
+  background-color: #c3cee1;
   color: #000000;
 }
 
 .search-engine button {
   border: none;
   border-radius: 8px;
-  background-color: #C3CEE1;
-  color: #416FA0;
+  background-color: #c3cee1;
+  color: #416fa0;
   font-size: 20px;
   outline: none;
   cursor: pointer;

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Search from "../search";
+import Search from "../search/search";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faTemperatureThreeQuarters,
